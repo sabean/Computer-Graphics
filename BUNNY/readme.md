@@ -39,5 +39,6 @@ Sabin Bhandari
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 ## References
-![](http://www.prinmath.com/csci5229/OBJ/index.html)
-![](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading)
+<http://www.prinmath.com/csci5229/OBJ/index.html)>
+
+<http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading>
