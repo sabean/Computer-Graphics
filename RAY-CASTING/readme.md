@@ -33,10 +33,15 @@ specular reflection coefficient as well as specular reflection exponent).
 
 ## sample output
 
-![alt text] (https://github.com/sabean/Computer-Graphics/RAY-CASTING/images/rabbit.jpg)
-![alt text] (https://github.com/sabean/Computer-Graphics/RAY-CASTING/images/sphere.jpg)
-![alt text] (https://github.com/sabean/Computer-Graphics/RAY-CASTING/images/suzanne.jpg)
-![alt text] (https://github.com/sabean/Computer-Graphics/RAY-CASTING/images/first.ppm)
+
+
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RASTER/image.jpg" width="500">
+
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/suzanne.jpg" width="500">
+
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/first.ppm" width="500">
+
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/rabbit.jpg">
 
 
 ## Issue Reporting
@@ -51,6 +56,3 @@ Sabin Bhandari
 
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
-## References
-![] http://www.prinmath.com/csci5229/OBJ/index.html
-![] http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading
