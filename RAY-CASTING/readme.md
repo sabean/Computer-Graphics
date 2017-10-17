@@ -35,11 +35,10 @@ specular reflection coefficient as well as specular reflection exponent).
 
 
 
-<img src="https://github.com/sabean/Computer-Graphics/blob/master/RASTER/image.jpg" width="500">
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/sphere.jpg" width="500">
 
 <img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/suzanne.jpg" width="500">
 
-<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/first.ppm" width="500">
 
 <img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-CASTING/images/rabbit.jpg">
 
