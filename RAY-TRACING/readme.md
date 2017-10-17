@@ -16,8 +16,10 @@ For each intersection point of primary rays with the transparent objects, refrac
 
 ## sample output
 
-![](https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/final.jpg)<!-- .element height="50%" width="50%" -->
-![](https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/sp.jpg)<!-- .element height="50%" width="50%" -->
+![](https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/final.jpg)
+<!-- .element height="50%" width="50%" -->
+![](https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/sp.jpg)
+<!-- .element height="50%" width="50%" -->
 
 ## Issue Reporting
 
@@ -33,4 +35,5 @@ This project is licensed under the MIT license. See the [LICENSE](LICENSE) file 
 
 ## References
 <http://www.prinmath.com/csci5229/OBJ/index.html>
+
 <http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading>
