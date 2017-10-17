@@ -9,7 +9,7 @@ g++ -Wall Duck.cpp -lglut -lGLU -lGL -lm
 ```
 ## sample output
 
-![alt text] (https://github.com/sabean/Computer-Graphics/DUCK/images/duck.gif)
+![alt text](https://github.com/sabean/Computer-Graphics/blob/master/DUCK/images/duck.gif)
 
 ## Issue Reporting
 
