@@ -24,7 +24,7 @@ g++ -Wall pixel.cpp -lglut -lGLU -lGL -lm -I/home/sabin/Desktop/CG/glm
 ```
 ## sample output
 
-![alt text] (https://github.com/sabean/Computer-Graphics/BUNNY/bunny.jpg)
+![alt text](https://github.com/sabean/Computer-Graphics/BUNNY/bunny.jpg)
 
 ## Issue Reporting
 
@@ -39,5 +39,5 @@ Sabin Bhandari
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 ## References
-![] http://www.prinmath.com/csci5229/OBJ/index.html
-![] http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading
+http://www.prinmath.com/csci5229/OBJ/index.html
+http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading
