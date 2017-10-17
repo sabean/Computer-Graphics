@@ -17,9 +17,9 @@ For each intersection point of primary rays with the transparent objects, refrac
 ## sample output
 
 
-<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/final.jpg" width="50">
-![](https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/sp.jpg)
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/final.jpg" width="500">
 
+<img src="https://github.com/sabean/Computer-Graphics/blob/master/RAY-TRACING/images/sp.jpg" width="500">
 
 ## Issue Reporting
 
