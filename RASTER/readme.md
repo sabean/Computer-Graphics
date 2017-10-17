@@ -17,7 +17,7 @@ tion was with the first sphere, RGB color ( 10−z/10 , 0, 0) shall be assigned 
 
 ## sample output
 
-![alt text] (Computer-Graphics/RASTER/image.jpg)
+![alt text](https://github.com/sabean/Computer-Graphics/blob/master/RASTER/image.jpg)
 
 ## Issue Reporting
 
